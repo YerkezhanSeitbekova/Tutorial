@@ -1,0 +1,9 @@
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.exe.config
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.exe
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.pdb
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csprojResolveAssemblyReference.cache
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.Form1.resources
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.Properties.Resources.resources
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.GenerateResource.Cache
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.exe
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.pdb
