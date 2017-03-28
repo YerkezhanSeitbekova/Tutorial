@@ -1,0 +1,9 @@
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\Week10\Week10\bin\Debug\Week10.exe.config
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\Week10\Week10\bin\Debug\Week10.exe
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\Week10\Week10\bin\Debug\Week10.pdb
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\Week10\Week10\obj\Debug\Week10.csprojResolveAssemblyReference.cache
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\Week10\Week10\obj\Debug\Week10.Form1.resources
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\Week10\Week10\obj\Debug\Week10.Properties.Resources.resources
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\Week10\Week10\obj\Debug\Week10.csproj.GenerateResource.Cache
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\Week10\Week10\obj\Debug\Week10.exe
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\Week10\Week10\obj\Debug\Week10.pdb
