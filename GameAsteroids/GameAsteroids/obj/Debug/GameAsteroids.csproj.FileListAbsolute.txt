@@ -1,0 +1,9 @@
+c:\users\e.seitbekova\documents\visual studio 2012\Projects\GameAsteroids\GameAsteroids\bin\Debug\GameAsteroids.exe.config
+c:\users\e.seitbekova\documents\visual studio 2012\Projects\GameAsteroids\GameAsteroids\bin\Debug\GameAsteroids.exe
+c:\users\e.seitbekova\documents\visual studio 2012\Projects\GameAsteroids\GameAsteroids\bin\Debug\GameAsteroids.pdb
+c:\users\e.seitbekova\documents\visual studio 2012\Projects\GameAsteroids\GameAsteroids\obj\Debug\GameAsteroids.csprojResolveAssemblyReference.cache
+c:\users\e.seitbekova\documents\visual studio 2012\Projects\GameAsteroids\GameAsteroids\obj\Debug\GameAsteroids.Properties.Resources.resources
+c:\users\e.seitbekova\documents\visual studio 2012\Projects\GameAsteroids\GameAsteroids\obj\Debug\GameAsteroids.csproj.GenerateResource.Cache
+c:\users\e.seitbekova\documents\visual studio 2012\Projects\GameAsteroids\GameAsteroids\obj\Debug\GameAsteroids.exe
+c:\users\e.seitbekova\documents\visual studio 2012\Projects\GameAsteroids\GameAsteroids\obj\Debug\GameAsteroids.pdb
+C:\Users\e.seitbekova\documents\visual studio 2012\Projects\GameAsteroids\GameAsteroids\obj\Debug\GameBullets.Form1.resources
