@@ -58,28 +58,39 @@ namespace GameBullets
        
         private void Form1_KeyUp(object sender, KeyEventArgs e)
         {
+            gun.direction = (gun.direction + 360) % 360;
             if (e.KeyCode == Keys.Up)
             {
-                if (!(gun.vx == 0 && gun.vy - 2 == 0) && gun.vy > -6) 
-                gun.vy -= 2;
+                if (gun.direction> 270 || gun.direction< 90)
+                    gun.direction += 10;
+                else
+                    gun.direction -= 10;
             } else if (e.KeyCode == Keys.Down)
             {
-                if (!(gun.vx == 0 && gun.vy + 2 == 0) && gun.vy < 6) 
-                gun.vy += 2;
+                if (gun.direction> 270 || gun.direction< 90)
+                    gun.direction -= 10;
+                else
+                    gun.direction += 10;
             } else if (e.KeyCode == Keys.Right)
             {
-                if (!(gun.vx + 2 == 0 && gun.vy == 0) && gun.vx < 6) 
-                gun.vx += 2;
+                if (gun.direction < 180)
+                    gun.direction -= 10;
+                else
+                    gun.direction += 10;
             } else if (e.KeyCode == Keys.Left)
             {
-                if (!(gun.vx - 2 == 0 && gun.vy == 0) && gun.vx > -6) 
-                gun.vx -= 2;
+                if ( gun.direction < 180)
+                    gun.direction += 10;
+                else
+                    gun.direction -= 10;
             }
 
             if (e.KeyCode == Keys.Enter)
             {
-                Bullet Bullet = new Bullet(gun.end.X-15, gun.end.Y-15, gun.vx, gun.vy);
-                bulls.Add(Bullet);
+                int vx = (int)(5.0*Math.Cos(gun.direction * 3.14 / 180));
+                int vy = -(int)(5.0*Math.Sin(gun.direction * 3.14 / 180));
+                Bullet b = new Bullet(gun.end.X-15, gun.end.Y-15, vx , vy);
+                bulls.Add(b);
             }
         }
 

@@ -11,22 +11,22 @@ namespace GameBullets
     {
         public Point location;
         public Point end;
-        public int vx;
-        public int vy;
-        
+        public int direction;
+        public int dx;
+        public int dy;
         public Gun()
         {
+            dx = dy = 0;
             location = new Point(250, 250);
             end = new Point(250, 230);
-            vx = 0;
-            vy = -2;
+            direction = 90;
 
         }
         
         public void move()
         {
-            location.X += vx;
-            location.Y += vy;
+            location.X += dx;
+            location.Y += dy;
             if (location.X < 2) location.X = 500;
             if (location.Y < 2) location.Y = 500;
             if (location.X > 500) location.X = 1;
@@ -37,8 +37,8 @@ namespace GameBullets
             Pen p = new Pen(Color.GreenYellow, 5);
            
             p.EndCap = System.Drawing.Drawing2D.LineCap.ArrowAnchor;
-            end.X = location.X + 20*vx/(int)Math.Sqrt(vx*vx+vy*vy);
-            end.Y = location.Y + 20*vy/(int)Math.Sqrt(vx*vx+vy*vy);
+            end.X = location.X + (int)(20.0*Math.Cos(direction * 3.14 / 180));
+            end.Y = location.Y - (int)(20.0 * Math.Sin(direction * 3.14 / 180));
             g.DrawLine(p, location, end);
            
 
