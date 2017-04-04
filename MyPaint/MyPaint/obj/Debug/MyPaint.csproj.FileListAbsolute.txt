@@ -1,0 +1,9 @@
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\MyPaint\MyPaint\bin\Debug\MyPaint.exe.config
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\MyPaint\MyPaint\obj\Debug\MyPaint.csprojResolveAssemblyReference.cache
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\MyPaint\MyPaint\obj\Debug\MyPaint.Form1.resources
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\MyPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.Cache
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\MyPaint\MyPaint\obj\Debug\MyPaint.pdb
