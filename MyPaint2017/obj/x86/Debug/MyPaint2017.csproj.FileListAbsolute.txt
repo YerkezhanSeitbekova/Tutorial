@@ -1,0 +1,7 @@
+c:\users\erkezhan\documents\visual studio 2010\Projects\MyPaint2017\bin\Debug\MyPaint2017.exe
+c:\users\erkezhan\documents\visual studio 2010\Projects\MyPaint2017\bin\Debug\MyPaint2017.pdb
+c:\users\erkezhan\documents\visual studio 2010\Projects\MyPaint2017\obj\x86\Debug\MyPaint2017.Form1.resources
+c:\users\erkezhan\documents\visual studio 2010\Projects\MyPaint2017\obj\x86\Debug\MyPaint2017.Properties.Resources.resources
+c:\users\erkezhan\documents\visual studio 2010\Projects\MyPaint2017\obj\x86\Debug\MyPaint2017.csproj.GenerateResource.Cache
+c:\users\erkezhan\documents\visual studio 2010\Projects\MyPaint2017\obj\x86\Debug\MyPaint2017.exe
+c:\users\erkezhan\documents\visual studio 2010\Projects\MyPaint2017\obj\x86\Debug\MyPaint2017.pdb
